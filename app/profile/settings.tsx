@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
     fontSize: 30,
     fontWeight: 'bold',
     color: '#00A99D',
-    marginLeft: 100,
+    marginLeft: 10,
   },
   MaterialIcons: {
     marginLeft: -10,
