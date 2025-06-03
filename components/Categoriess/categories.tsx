@@ -35,6 +35,7 @@ export default function Categories() {
               <Text style={{ fontWeight: '500', fontSize: 16, color: '#00a99d' }}>
                 See All <AntDesign name="arrowright" size={20} color="#00a99d" />
               </Text>
+                </TouchableOpacity>
             </View>
             <FlatList
               data={item.subcategories.slice(0,4)}
